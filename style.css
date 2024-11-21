@@ -3,11 +3,7 @@
   justify-content: center;
 }
 
-.comment-btns {
-  
-}
-
-.rm-comments {
+.rm-comments-btn {
   background-color: blue;
   border-radius: 5px;
   padding: 2px;
@@ -15,7 +11,7 @@
   color: white;
 }
 
-.show-comments {
+.show-comments-btn {
   margin-left: 5px;
   background-color: blue;
   border-radius: 5px;
