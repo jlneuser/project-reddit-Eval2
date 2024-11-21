@@ -4,16 +4,24 @@
 }
 
 .comment-btns {
-  color: blue;
+  
 }
 
 .rm-comments {
-  box-shadow: 1px 1px 3px rgba(90, 90, 176, .9);
+  background-color: blue;
+  border-radius: 5px;
+  padding: 2px;
+  font-size: 80%;
+  color: white;
 }
 
 .show-comments {
   margin-left: 5px;
-  box-shadow: 1px 1px 3px rgba(90, 90, 176, .9);
+  background-color: blue;
+  border-radius: 5px;
+  padding: 2px;
+  font-size: 80%;
+  color: white;
 }
 
 span {
