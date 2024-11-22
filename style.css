@@ -3,8 +3,9 @@
   justify-content: center;
 }
 
-.new-comments {
-  border: 1px solid blue;
+hr {
+  background-color: black;
+  color: black;
 }
 
 .rm-comments-btn {
@@ -25,7 +26,7 @@
 }
 
 span {
-  margin: 8px;
+  margin:
 }
 
 input {
